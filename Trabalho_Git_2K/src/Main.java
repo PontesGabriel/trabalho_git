@@ -8,6 +8,7 @@ public class Main {
 		String n = k.nextLine();
 		System.out.println("Hello "+n);
 		System.out.println("Hello World!");
+		System.out.println("Hello Developer!");
 
 	}
 
